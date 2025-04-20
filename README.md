@@ -1,6 +1,6 @@
-# TST editor
+# MMO editor
 
-This repository contains an editing interface for the TST project. It has been tested on the latest versions of [__Firefox__](https://www.mozilla.org/en-CA/firefox/new/) and Chrome, with limited testing on Edge and WebKit browsers (e.g., [GNOME Web](https://wiki.gnome.org/Apps/Web/), Safari). To use the editor, go to [https://tst-project.github.io/editor/](https://tst-project.github.io/editor/).
+This repository contains an editing interface for the MMO project. It has been tested on the latest versions of [__Firefox__](https://www.mozilla.org/en-CA/firefox/new/) and Chrome, with limited testing on Edge and WebKit browsers (e.g., [GNOME Web](https://wiki.gnome.org/Apps/Web/), Safari). To use the editor, go to [https://tst-project.github.io/editor/](https://tst-project.github.io/editor/).
 
 ## How to create a manuscript record
 
